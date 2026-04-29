@@ -73,7 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Linga101/Linga101/output/snake.svg" alt="Snake animation" />
 
 ###
 
